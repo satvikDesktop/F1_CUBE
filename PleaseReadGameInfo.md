@@ -3,6 +3,11 @@
 ![Banner](https://img.itch.zone/aW1nLzY0MTE0NjQucG5n/original/seegh7.png)
 [Trailer for the game](https://youtu.be/fInT3KWO8Y8)
 
+## DOWNLOAD
+The game can be donwloaded from the itch.io store page , *Install instructions are provided on the store* 
+[Click to go to download page ](https://satvikdesktop.itch.io/f1-cube)
+
+
 This is my first 3D  fast paced racing/arcade game  called F1 CUBE ( formula one cube)
 
 The game has 7 different levels of varying difficulty and has  a minimalistic  main menu .
@@ -11,6 +16,7 @@ Your task is to reach to the end of the level without hitting any black cube . N
 
 Inspired by BRACKEYS : 
 [Brackeys game development playlist](https://youtu.be/j48LtUkZRjU)
+
 
 ## NOTE:
 This game is not meant to  be commercially viable , I created this to learn 3D software like unity and blender
