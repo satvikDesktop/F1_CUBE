@@ -7,7 +7,7 @@
 The game can be donwloaded from the itch.io store page , *Install instructions are provided on the store* 
 [Click to go to download page ](https://satvikdesktop.itch.io/f1-cube)
 
-
+## EXTRA INFO
 This is my first 3D  fast paced racing/arcade game  called F1 CUBE ( formula one cube)
 
 The game has 7 different levels of varying difficulty and has  a minimalistic  main menu .
