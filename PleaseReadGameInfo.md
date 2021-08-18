@@ -7,6 +7,9 @@
 The game can be donwloaded from the itch.io store page , *Install instructions are provided on the store* 
 [Click to go to download page ](https://satvikdesktop.itch.io/f1-cube)
 
+## THE REPOSITORY
+In the repo , I provide the code for the mechanics of the game from camera to movement to the game UI , Note that the game was made using the Unity game engine
+
 ## EXTRA INFO
 This is my first 3D  fast paced racing/arcade game  called F1 CUBE ( formula one cube)
 
