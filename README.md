@@ -12,13 +12,13 @@ Your task is to reach to the end of the level without hitting any black cube . N
 Inspired by BRACKEYS : 
 [Brackeys game development playlist](https://youtu.be/j48LtUkZRjU)
 
-##NOTE:
+## NOTE:
 This game is not meant to  be commercially viable , I created this to learn 3D software like unity and blender
 
-##CONTACT:
+## CONTACT:
 You contact me on discord at :     satvikDekstop#9119
 
-##SCREENSHOTS
+## SCREENSHOTS
 ![Level Complete](https://img.itch.zone/aW1hZ2UvMTExMDE5OC82NDExNDM0LnBuZw==/original/WDcpFP.png)
 ![Start Menu](https://img.itch.zone/aW1hZ2UvMTExMDE5OC82NDExNDMyLnBuZw==/original/dDRlKe.png)
 ![GamePlay1](https://img.itch.zone/aW1hZ2UvMTExMDE5OC82NDExNDM2LnBuZw==/original/8jf1UI.png)
